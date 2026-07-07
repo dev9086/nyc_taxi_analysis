@@ -1,4 +1,4 @@
-# NYC Taxi Revenue & Demand Analysis — March 2019
+# NYC Taxi Revenue & Demand Analysis — March 2026
 
 End-to-end data analysis of NYC Yellow and Green Cab trip records using Python and PostgreSQL.
 The project answers seven business questions about revenue, demand, cab performance, and tipping behaviour,
