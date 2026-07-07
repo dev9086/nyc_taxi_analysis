@@ -11,7 +11,7 @@ backed by inferential statistics, A/B testing, and machine learning models.
 **NYC Taxi & Limousine Commission (TLC) Trip Record Data**
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-- 6,433 real trip records from March 2019
+- 6,433 real trip records from March 2026
 - 14 raw columns: pickup/dropoff timestamps, fare, tip, tolls, total, cab color,
   payment type, pickup/dropoff zone and borough, passenger count, distance
 - Real missing values: 44 rows with null payment, 26 with null pickup zone
